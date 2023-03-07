@@ -1,0 +1,13 @@
+# This is the variable file. Values should be entered according to the test need.
+JOB_TITLE = "Job title"
+FIRSTNAME = "FIRSTNAME"
+LASTNAME = "LASTNAME"
+EMAIL = "EMAIL@gmail.com"
+PHONE = "+1234567890"
+COUNTRY = "COUNTRY"
+LINKEDIN = "https://www.linkedin.com/in/pramesh-khanal/"
+COVER = "Thank you for considering my application."
+PHOTOPATH = "path\\to\\Your_profile.jpg"
+CVPATH = "path\\to\\Your_CV.pdf"
+WEBSITE = "https://github.com/PrameshKhanal/elisa_application"
+ADDQUESTION = "ADDQUESTION"
